@@ -47,7 +47,6 @@ instance/
 *.db
 
 # Model and scaler files (if you want to exclude them from version control)
-*.pkl
 *.joblib
 *.h5
 *.pth
